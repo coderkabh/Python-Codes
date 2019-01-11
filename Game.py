@@ -75,7 +75,7 @@ if answer=='y' or answer=='Y':
 
 	b=int(input())
 	if b==1:
-		sum1=sum1
+		sum1=sum1+2**0
 	elif b==0:
 		print("No problem")
 	else:
